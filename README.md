@@ -1,4 +1,4 @@
-# Happy-7-th-anniversary-
+# Happy-7-th anniversary
 <!DOCTYPE html>
 <html lang="hi">
 <head>
